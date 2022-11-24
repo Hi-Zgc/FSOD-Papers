@@ -3,5 +3,5 @@
 
 
 ### Multi-Scale Positive Sample Refinement for Few-Shot Object Detection
-PDF: https://arxiv.org/pdf/2007.09384v1.pdf 
+PDF: https://arxiv.org/pdf/2007.09384v1.pdf \n
 Code:  https://github.com/jiaxi-wu/MPSR 
